@@ -1,6 +1,6 @@
-# statistical-data-analysis-
 
-## Description of the Earthquakes Dataset 
+
+# Description of the Earthquakes Dataset 
 - **id**: id of earthquake
 - **date**: date of earthquake
 - **time**: time of earthquake
