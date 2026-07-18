@@ -18,7 +18,7 @@
 - **mw**: mw of earthquake / moment magnitude
 - **ms**: ms of earthquake / surface-wave magnitude
 - **mb**: mb of earthquake / body-wave magnitude
-- **mg**: magnitude class of the earthquake. It is 0 if the magnitude is less than 5, and 1 if the magnitude is 5 or greater. (Response)
+- **mg**: magnitude class of the earthquake. It is 0 if the magnitude is less than 5, and 1 if the magnitude is 5 or greater. **(Response)**
 - **day**: day of the earthquake
 - **month**: month of the earthquake
 - **year**: year of the earthquake
