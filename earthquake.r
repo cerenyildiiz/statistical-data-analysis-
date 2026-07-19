@@ -9,3 +9,8 @@ mugla <- read.delim("mugla.txt")
 
 # To import the data without errors, you need to apply the following code 
 mugla <- read.delim("mugla.txt", header = TRUE, sep = "", row.names = 1)
+
+
+
+# Total NA  values from all variables
+colSums(is.na(mugla)) #554,mw: moment magnitude of the earthquake
