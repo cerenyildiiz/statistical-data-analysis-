@@ -13,4 +13,4 @@ mugla <- read.delim("mugla.txt", header = TRUE, sep = "", row.names = 1)
 
 
 # Total NA  values from all variables
-colSums(is.na(mugla)) # NA:554, mw: moment magnitude of the earthquake
+colSums(is.na(mugla)) #  #NA:554, mw: moment magnitude of the earthquake
