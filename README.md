@@ -1,4 +1,4 @@
-
+# Comparative Analysis of Machine Learning Algorithms for Earthquake Magnitude Classification
 
 # Description of the Earthquakes Dataset 
 - **id**: id of earthquake
