@@ -1,4 +1,20 @@
-# Comparative Analysis of Machine Learning Algorithms for Earthquake Magnitude Classification
+# Comparative Analysis of Machine Learning Algorithms for Earthquake Magnitude Classification in Muğla
+
+## 📁 Project Structure
+
+```text
+statistical-data-analysis/
+│
+├── data/
+│   └── ...
+│
+├── notebooks/
+│   └── ...
+│
+├── data_preparation.py # data preparation steps in Python (data import + train-test splitting)
+├── earthquake.r        # data import steps in R
+├── README.md
+└── LICENSE
 
 # Description of the Earthquakes Dataset 
 - **id**: id of earthquake
