@@ -15,8 +15,9 @@ statistical-data-analysis/
 ├── earthquake.r        # data import steps in R
 ├── README.md
 └── LICENSE
+```
 
-# Description of the Earthquakes Dataset 
+## Description of the Earthquakes Dataset 
 - **id**: id of earthquake
 - **date**: date of earthquake
 - **time**: time of earthquake
