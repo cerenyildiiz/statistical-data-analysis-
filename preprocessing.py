@@ -113,8 +113,7 @@ selected_numeric = [
     "ms",
     "richter",
     "mb",
-    "depth",
-    "year"
+    "depth"
 ]
 
 
