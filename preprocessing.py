@@ -1,6 +1,6 @@
 Our goal here is to prevent data leakage.
 
-#  note: mw was removed from the analysis because 83.08% of its values were missing. Also, the amount of missing data changed a lot across different years, so filling the missing values could give misleading results.
+#  note: mw was removed from the analysis because 83.08% of its values were missing. also the amount of missing data changed a lot across different years so filling the missing values could give misleading results.
 # Missing    Percent
 # mw        442  83.082707
 # area        1  0.187970
