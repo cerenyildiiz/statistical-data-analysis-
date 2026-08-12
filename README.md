@@ -2,6 +2,7 @@
 
 ## 📁 Project Structure
 
+```text
 statistical-data-analysis/
 │
 ├── data/
@@ -15,8 +16,9 @@ statistical-data-analysis/
 ├── preprocessing.py    # data preprocessing steps
 ├── README.md
 └── LICENSE
+```
 
-## Description of the Earthquakes Dataset 
+## Description of the Earthquakes Dataset
 - **id**: id of earthquake
 - **date**: date of earthquake
 - **time**: time of earthquake
