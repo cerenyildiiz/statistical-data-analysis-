@@ -2,7 +2,6 @@
 
 ## 📁 Project Structure
 
-```text
 statistical-data-analysis/
 │
 ├── data/
@@ -13,9 +12,9 @@ statistical-data-analysis/
 │
 ├── data_preparation.py # data preparation steps in Python (data import + train-test splitting)
 ├── earthquake.r        # data import steps in R
+├── preprocessing.py    # data preprocessing steps
 ├── README.md
 └── LICENSE
-```
 
 ## Description of the Earthquakes Dataset 
 - **id**: id of earthquake
