@@ -24,7 +24,7 @@ print(mugla.isna().sum())
 
 
 
-
+# IMPORTANT: Approximately 80% of the observations in the MW variable were missing. Therefore, the variable was excluded from the analysis.
 # splitting of data into train and test data
 
 from sklearn.model_selection import train_test_split
