@@ -22,10 +22,11 @@ print(mugla.head())
 print("\nMissing values:")
 print(mugla.isna().sum())
 
+# Missing    Percent
+# mw        442  83.082707
 
 
-# IMPORTANT: Approximately 80% of the observations in the MW variable were missing. Therefore, the variable was excluded from the analysis.
-# splitting of data into train and test data
+# IMPORTANT: Approximately 83.08% of the observations in the MW variable were missing.Therefore, the variable was excluded from the analysis.
 
 from sklearn.model_selection import train_test_split
 
